@@ -1,7 +1,7 @@
 
 # Prueba Tecnica LER Preveción
 
-Aque mostrare el proceso para ejecutar los proyectos backend y frontend.
+Aque mostrare el proceso para ejecutar los proyectos back-end y front-end.
 
 Para esto es necesario tener instalado lo siguente:
 
@@ -65,7 +65,7 @@ Vamos a abrir una terminal ubicados dentro de la carpeta llamada api_prueba y va
 ```http
   GET http://localhost:3000/api/data
 ```
-## Ejecutar Fron-tend
+## Ejecutar Front-end
 
 Vamos a abrir una terminal ubicados dentro de la carpeta llamada frontend_prueba y vamos a Ejecutar:
 
